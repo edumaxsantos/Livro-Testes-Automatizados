@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Teste",
+      "request": "launch",
+      "mainClass": "br.com.edumaxsantos.Teste",
+      "projectName": "livro-testes"
+    }
+  ]
+}
